@@ -113,7 +113,7 @@ translator:
   enable_charset_filter: true
   enable_completion: true
   enable_encoder: false
-  enable_sentence: true
+  enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
   max_phrase_length: 12
@@ -358,7 +358,7 @@ reverse_lookup:
   suffix: 
   tips: "〔cof_punct〕"
   enable_completion: true
-  enable_sentence: true
+  enable_sentence: false
 
 
 #style:
