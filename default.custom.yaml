@@ -9,3 +9,11 @@ patch:
     - {schema: cof86}
     - {schema: luna_quanpin}
     - {schema: terra_pinyin}
+
+  switcher:
+    hotkeys: # 弹出菜单的快捷键
+      - "Control+F9"
+      - "Shift+Control+F9"
+    abbreviate_options: true
+    caption: "【 输入法设置 】"
+    option_list_separator: "｜"
